@@ -1,0 +1,203 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.img-banner {
+	display: none;
+	padding: 25px 5px 0px 5px; 
+}
+
+.img-info h3 {
+	padding: 20px 0px 20px 20px ;
+	font-family: sans-serif;
+
+}
+
+.head {
+	font-family: sans-serif;
+	color: blue;
+	padding:20px 0px 0px 100px;
+}
+
+.img-info p {
+	font-family: sans-serif;
+	padding-left: 20px;
+	padding-right: 15px;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+
+.logo-first {
+	display: none;
+}
+.logo {
+	width: 100%;
+	margin-left: 13px;
+	margin-left: px;
+}
+
+.fru-pic img {
+	width: 300px;
+	padding-left: 30px;
+}
+
+.fru-pic p {
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-left: 130px;
+
+}
+
+@media only screen and (min-width: 768px){
+
+
+	.img-banner {
+	display: block;
+	width: 100%;
+}
+
+.logo {
+	display: none;
+}
+
+
+.head {
+	font-family: sans-serif;
+	color: blue;
+	font-size: 60px;
+	margin-left: 90px;
+}
+.logo-first {
+	display: block;
+	width: 100%;
+}
+
+.img-info h3 {
+	font-size: 40px;
+	padding: 50px 0px 0px 20px;
+	font-family: sans-serif;
+
+}
+
+.img-info p {
+	font-family: sans-serif;
+	padding:20px 15px 0px 20px;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+.fru-pic img {
+	width: 300px;
+	float: left;
+	padding-left: 50px;
+}
+
+.fru-pic p {
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-left: 130px;
+	display: none;
+
+}
+.fru-pic hr {
+	display: none;
+
+}
+
+}
+@media only screen and (min-width:1000px ) {
+
+.img-banner {
+	display: block;
+	width: 100%;
+}
+.logo {
+	display: none;
+}
+.head {
+	font-family: sans-serif;
+	color: blue;
+	font-size: 50px;
+	margin-left: 210px;
+}
+.logo-first {
+	display: block;
+	width: 100%;
+}
+.img-info h3 {
+	font-size: 40px;
+	padding: 50px 0px 0px 20px;
+	font-family: sans-serif;
+
+}
+.img-info p {
+	font-family: sans-serif;
+	padding:20px 15px 0px 20px;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+.fru-pic hr {
+	display: none;
+
+}
+.fru-pic img {
+	width: 400px;
+	float: left;
+	padding-left: 50px;
+}
+
+.fru-pic p {
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-left: 130px;
+	display: none;
+
+}
+@media only screen and (min-width:1300px ) {
+
+.img-banner {
+	display: block;
+	width: 100%;
+}
+.logo {
+	display: none;
+}
+.head {
+	font-family: sans-serif;
+	color: blue;
+	font-size: 50px;
+	margin-left: 400px;
+}
+.logo-first {
+	display: block;
+	width: 100%;
+}
+.img-info h3 {
+	font-size: 40px;
+	padding: 50px 0px 0px 20px;
+	font-family: sans-serif;
+
+}
+.img-info p {
+	font-family: sans-serif;
+	padding:20px 15px 0px 20px;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+.fru-pic hr {
+	display: none;
+
+}
+.fru-pic img {
+	width: 600px;
+	float: left;
+	padding-left: 50px;
+}
+
+.fru-pic p {
+	font-family: sans-serif;
+	font-size: 25px;
+	padding-left: 130px;
+	display: none;
+
+}
